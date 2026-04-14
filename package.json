@@ -1,0 +1,15 @@
+{
+    "name": "lead-enrichment-pipeline",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "One API call to get verified employee contacts from any company. Combines LinkedIn scraping, company enrichment, and email validation into a single pipeline.",
+    "main": "src/main.js",
+    "scripts": {
+        "start": "node src/main.js",
+        "test": "node --test test/pipeline.test.js"
+    },
+    "dependencies": {
+        "apify": "^3"
+    },
+    "author": "George The Developer"
+}

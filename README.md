@@ -2,6 +2,10 @@
 
 One API call to turn a LinkedIn company URL into verified employee contacts with emails. No manual research, no tab switching, no copy pasting.
 
+## 简介
+
+一个API调用：输入公司LinkedIn链接，获取员工资料、验证的电子邮件和公司数据。每条线索$0.03。替代Apollo（$99/月）。
+
 ## What It Does
 
 You provide a LinkedIn company URL. The pipeline does the rest:
